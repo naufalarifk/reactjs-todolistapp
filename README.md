@@ -1,3 +1,7 @@
+## THIS WAS CREATED TWO MONTHS AGO 
+  This project was a result of my curiosity after elarning basic js 2 months ago so i tried to create a to-do-list app since it's simple and the most basic app we can make using   react. honestly i look forward to making cool and complicated app within the 2nd phase of learning with waveast 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
