@@ -1,5 +1,5 @@
 ## THIS WAS CREATED TWO MONTHS AGO 
-  This project was a result of my curiosity after elarning basic js 2 months ago so i tried to create a to-do-list app since it's simple and the most basic app we can make using   react. honestly i look forward to making cool and complicated app within the 2nd phase of learning with waveast 
+  This project was a result of my curiosity after learning basic js 2 months ago so i tried to create a to-do-list app since it's simple and the most basic app we can make using   react. honestly i look forward to making cool and complicated app within the 2nd phase of learning with waveast 
 
 
 # Getting Started with Create React App
